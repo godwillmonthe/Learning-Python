@@ -1,7 +1,7 @@
-# How python code is executed
+# Variables
 
-print('Godwill Monthe')
-print('o----')
-print(' ||||')
-
-# when this code is ran, the terminal will print the statements above line by line
+price = 10 # This is how a variable is defined
+rating = 4.9 # float variable
+name = 'Godwill' # string variable
+is_bool = True # boolean variables
+print(price)
