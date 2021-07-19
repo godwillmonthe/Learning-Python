@@ -1,4 +1,4 @@
 # Getting input
 
 name = input('What is your name? ')
-print('Hi ' + name) # str concatenation
+print('Hi ' + name)  # str concatenation
