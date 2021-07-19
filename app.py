@@ -1,2 +1,1 @@
-course = 'Python for Beginners'
-print(len(course))
+print('Hello World!')
